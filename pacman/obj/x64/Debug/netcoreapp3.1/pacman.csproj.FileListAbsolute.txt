@@ -1,0 +1,5 @@
+C:\Users\azhon\source\repos\pacman\pacman\obj\x64\Debug\netcoreapp3.1\pacman.csproj.AssemblyReference.cache
+C:\Users\azhon\source\repos\pacman\pacman\obj\x64\Debug\netcoreapp3.1\pacman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azhon\source\repos\pacman\pacman\obj\x64\Debug\netcoreapp3.1\pacman.AssemblyInfoInputs.cache
+C:\Users\azhon\source\repos\pacman\pacman\obj\x64\Debug\netcoreapp3.1\pacman.AssemblyInfo.cs
+C:\Users\azhon\source\repos\pacman\pacman\obj\x64\Debug\netcoreapp3.1\pacman.csproj.CoreCompileInputs.cache

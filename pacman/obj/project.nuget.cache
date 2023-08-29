@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tnT9pEHYVIdNlLTPhdw0yBWz+3sr7M8L74yyGSIIPgPmA2csYtIjZNF70HElnzv/2UVLZeILW93V/L6wiecyjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\azhon\\source\\repos\\pacman\\pacman\\pacman.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\azhon\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\azhon\\.nuget\\packages\\monogame.content.builder.task.compute\\3.8.2\\monogame.content.builder.task.compute.3.8.2.nupkg.sha512",
+    "C:\\Users\\azhon\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}

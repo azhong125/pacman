@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/blinky.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/cherry.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/clyde.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/font.spritefont</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/fontversion1.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/inky.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/pacmanRight.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/pacmanRight1.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/pinky.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/spriteSheet.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/test.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile1.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile-1.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile10.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile11.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile12.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile13.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile14.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile15.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile16.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile17.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile18.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile19.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile2.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile-2.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile20.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile21.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile22.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile23.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile24.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile25.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile26.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile27.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile28.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile29.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile3.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile-3.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile30.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile4.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile5.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile6.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile7.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile8.png</File>
+    <File>C:/Users/azhon/source/repos/pacman/pacman/Content/tile9.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
